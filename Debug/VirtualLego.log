@@ -1,0 +1,27 @@
+﻿cl : 명령줄 warning D9035: 'Gm' 옵션은 더 이상 사용되지 않으므로 이후 릴리스에서 제거될 예정입니다.
+  virtualLego.cpp
+C:\Users\jhk27\OneDrive\바탕 화면\20196014_proj3\virtualLego.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\jhk27\OneDrive\바탕 화면\20196014_proj3\d3dUtility.h(23,1): warning C4005: 'INFINITY': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_math.h(88): message : 'INFINITY'의 이전 정의를 참조하십시오.
+C:\Users\jhk27\OneDrive\바탕 화면\20196014_proj3\virtualLego.cpp(40,143): warning C4305: '초기화 중': 'double'에서 'const float'(으)로 잘립니다.
+C:\Users\jhk27\OneDrive\바탕 화면\20196014_proj3\virtualLego.cpp(61,1): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\jhk27\OneDrive\바탕 화면\20196014_proj3\virtualLego.cpp(119,20): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jhk27\OneDrive\바탕 화면\20196014_proj3\virtualLego.cpp(132,1): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\jhk27\OneDrive\바탕 화면\20196014_proj3\virtualLego.cpp(152,24): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jhk27\OneDrive\바탕 화면\20196014_proj3\virtualLego.cpp(153,24): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jhk27\OneDrive\바탕 화면\20196014_proj3\virtualLego.cpp(267,1): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\jhk27\OneDrive\바탕 화면\20196014_proj3\virtualLego.cpp(271,1): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\jhk27\OneDrive\바탕 화면\20196014_proj3\virtualLego.cpp(276,1): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\jhk27\OneDrive\바탕 화면\20196014_proj3\virtualLego.cpp(280,1): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\jhk27\OneDrive\바탕 화면\20196014_proj3\virtualLego.cpp(299,33): warning C4305: 'return': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\jhk27\OneDrive\바탕 화면\20196014_proj3\virtualLego.cpp(530,63): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\jhk27\OneDrive\바탕 화면\20196014_proj3\virtualLego.cpp(543,62): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\jhk27\OneDrive\바탕 화면\20196014_proj3\virtualLego.cpp(547,67): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\jhk27\OneDrive\바탕 화면\20196014_proj3\virtualLego.cpp(646,17): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jhk27\OneDrive\바탕 화면\20196014_proj3\virtualLego.cpp(647,17): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jhk27\OneDrive\바탕 화면\20196014_proj3\virtualLego.cpp(661,18): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jhk27\OneDrive\바탕 화면\20196014_proj3\virtualLego.cpp(662,18): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jhk27\OneDrive\바탕 화면\20196014_proj3\virtualLego.cpp(590,13): warning C4101: 'z' :참조되지 않은 지역 변수입니다.
+C:\Users\jhk27\OneDrive\바탕 화면\20196014_proj3\virtualLego.cpp(590,11): warning C4101: 'y' :참조되지 않은 지역 변수입니다.
+C:\Users\jhk27\OneDrive\바탕 화면\20196014_proj3\virtualLego.cpp(590,9): warning C4101: 'x' :참조되지 않은 지역 변수입니다.
+  VirtualLego.vcxproj -> C:\Users\jhk27\OneDrive\바탕 화면\20196014_proj3\Debug\VirtualLego.exe
